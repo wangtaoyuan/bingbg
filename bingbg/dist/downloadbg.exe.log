@@ -1,0 +1,69 @@
+Traceback (most recent call last):
+  File "downloadbg.py", line 36, in <module>
+  File "downloadbg.py", line 29, in downloadpic
+IOError: [Errno 2] No such file or directory: 'D:\\git\\bingbg\\dist\\image\\bing20170818.jpg'
+Traceback (most recent call last):
+  File "downloadbg.py", line 36, in <module>
+  File "downloadbg.py", line 29, in downloadpic
+IOError: [Errno 2] No such file or directory: 'D:\\git\\bingbg\\dist\\image\\bing20170818.jpg'
+Traceback (most recent call last):
+  File "downloadbg.py", line 36, in <module>
+  File "downloadbg.py", line 29, in downloadpic
+IOError: [Errno 2] No such file or directory: 'D:\\git\\bingbg\\dist\\image\\bing20170818.jpg'
+Traceback (most recent call last):
+  File "downloadbg.py", line 36, in <module>
+  File "downloadbg.py", line 29, in downloadpic
+IOError: [Errno 2] No such file or directory: 'D:\\git\\bingbg\\dist\\image\\bing20170818.jpg'
+Traceback (most recent call last):
+  File "downloadbg.py", line 36, in <module>
+  File "downloadbg.py", line 29, in downloadpic
+IOError: [Errno 2] No such file or directory: 'D:\\git\\bingbg\\dist\\image\\bing20170818.jpg'
+Traceback (most recent call last):
+  File "downloadbg.py", line 40, in <module>
+  File "os.pyc", line 150, in makedirs
+  File "os.pyc", line 157, in makedirs
+WindowsError: [Error 123] : 'D:\\git\\bingbg\\distE:'
+Traceback (most recent call last):
+  File "downloadbg.py", line 40, in <module>
+  File "os.pyc", line 150, in makedirs
+  File "os.pyc", line 157, in makedirs
+WindowsError: [Error 123] : 'D:\\git\\bingbg\\distE:'
+Traceback (most recent call last):
+  File "downloadbg.py", line 19, in <module>
+  File "urllib2.pyc", line 154, in urlopen
+  File "urllib2.pyc", line 429, in open
+  File "urllib2.pyc", line 447, in _open
+  File "urllib2.pyc", line 407, in _call_chain
+  File "urllib2.pyc", line 1228, in http_open
+  File "urllib2.pyc", line 1198, in do_open
+urllib2.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+Traceback (most recent call last):
+  File "downloadbg.py", line 23, in <module>
+NameError: name 'content' is not defined
+Traceback (most recent call last):
+  File "downloadbg.py", line 22, in <module>
+TypeError: The object is not a PyHANDLE object
+Traceback (most recent call last):
+  File "downloadbg.py", line 22, in <module>
+TypeError: The object is not a PyHANDLE object
+Traceback (most recent call last):
+  File "downloadbg.py", line 23, in <module>
+NameError: name 'content' is not defined
+Traceback (most recent call last):
+  File "downloadbg.py", line 31, in <module>
+NameError: name 'content' is not defined
+Traceback (most recent call last):
+  File "downloadbg.py", line 31, in <module>
+NameError: name 'content' is not defined
+Traceback (most recent call last):
+  File "downloadbg.py", line 31, in <module>
+NameError: name 'content' is not defined
+Traceback (most recent call last):
+  File "downloadbg.py", line 31, in <module>
+NameError: name 'content' is not defined
+Traceback (most recent call last):
+  File "downloadbg.py", line 31, in <module>
+NameError: name 'content' is not defined
+Traceback (most recent call last):
+  File "downloadbg.py", line 31, in <module>
+NameError: name 'content' is not defined
